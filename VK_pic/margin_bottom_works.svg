@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="505px" height="99px" viewBox="-28.256 0 505 99"
+	 overflow="visible" enable-background="new -28.256 0 505 99" xml:space="preserve">
+<defs>
+</defs>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="19.658" y1="0" x2="19.658" y2="49.635"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="167.408" y1="0" x2="167.408" y2="36.375"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="245.584" y1="0" x2="245.584" y2="49.635"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="324.9" y1="0" x2="324.9" y2="55.729"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="410.951" y1="0" x2="410.951" y2="49.635"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="222.611" y1="0" x2="222.611" y2="32.943"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="82.98" y1="0" x2="82.98" y2="47.486"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="298.922" y1="0" x2="298.922" y2="36.375"/>
+<line fill="none" stroke="#FFB5B7" stroke-width="3" stroke-miterlimit="10" x1="446.672" y1="0" x2="446.672" y2="29.924"/>
+<polygon fill="#FFB5B7" points="19.658,55.096 24.297,69.379 39.312,69.379 27.164,78.205 31.807,92.484 19.658,83.66 7.508,92.484 
+	12.148,78.205 0,69.379 15.016,69.379 "/>
+<polygon fill="#FFB5B7" points="82.98,51.021 86.727,62.549 98.848,62.549 89.039,69.676 92.785,81.205 82.98,74.078 73.172,81.205 
+	76.918,69.676 67.111,62.549 79.232,62.549 "/>
+<polygon fill="#FFB5B7" points="245.584,56.244 249.939,69.648 264.035,69.648 252.631,77.934 256.99,91.338 245.584,83.055 
+	234.184,91.338 238.539,77.934 227.137,69.648 241.23,69.648 "/>
+<polygon fill="#FFB5B7" points="324.9,59.777 328.379,70.484 339.635,70.484 330.527,77.098 334.006,87.805 324.9,81.189 
+	315.793,87.805 319.271,77.098 310.166,70.484 321.422,70.484 "/>
+<polygon fill="#FFB5B7" points="410.951,51.441 415.082,64.15 428.445,64.15 417.635,72.002 421.764,84.713 410.951,76.857 
+	400.143,84.713 404.271,72.002 393.461,64.15 406.822,64.15 "/>
+<polygon fill="#FFB5B7" points="44.012,28.32 46.736,36.703 55.549,36.703 48.418,41.887 51.143,50.268 44.012,45.088 
+	36.881,50.268 39.604,41.887 32.473,36.703 41.289,36.703 "/>
+<polygon fill="#FFB5B7" points="167.408,42.93 170.428,52.225 180.201,52.225 172.295,57.969 175.316,67.264 167.408,61.521 
+	159.5,67.264 162.521,57.969 154.613,52.225 164.387,52.225 "/>
+<polygon fill="#FFB5B7" points="222.611,32.943 225.336,41.328 234.15,41.328 227.018,46.51 229.742,54.891 222.611,49.711 
+	215.48,54.891 218.205,46.51 211.072,41.328 219.887,41.328 "/>
+<polygon fill="#FFB5B7" points="388.221,26.307 390.945,34.689 399.762,34.689 392.629,39.869 395.354,48.254 388.221,43.072 
+	381.092,48.254 383.816,39.869 376.684,34.689 385.498,34.689 "/>
+<polygon fill="#FFB5B7" points="446.672,34.297 449.396,42.682 458.213,42.682 451.082,47.861 453.805,56.244 446.672,51.064 
+	439.543,56.244 442.268,47.861 435.135,42.682 443.949,42.682 "/>
+<polygon fill="#FFB5B7" points="298.922,45.271 301.646,53.652 310.461,53.652 303.33,58.836 306.053,67.221 298.922,62.039 
+	291.793,67.221 294.516,58.836 287.385,53.652 296.199,53.652 "/>
+</svg>
